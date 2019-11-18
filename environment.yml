@@ -1,4 +1,4 @@
-name: voila-gallery-mne
+name: dipole-model
 channels:
 - conda-forge
 dependencies:
@@ -10,3 +10,4 @@ dependencies:
 - ipympl=0.3.3
 - pip:
   - mne
+  - mayavi
