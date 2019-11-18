@@ -1,4 +1,4 @@
+# meeg-source-viz-web-app
+A binder source visualization web app for understanding how dipoles manifest at the scalp
 
-# Voila example: render M/EEG files with mne
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agramfort/mne-web-apps/master?urlpath=voila%2Frender%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexrockhill/meeg-source-viz-web-app/master?urlpath=voila%2Frender%2Fapp.ipynb)
